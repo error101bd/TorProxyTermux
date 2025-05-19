@@ -1,7 +1,7 @@
 # Tor + Proxy Auto Setup for Termux
 **Advanced Tor & Proxy Auto-Setup Script for Termux**  
 🚀 **Author:** Error101  
-🔗 **GitHub:** [https://github.com/hackererror101](https://github.com/hackererror101)  
+🔗 **GitHub:** [https://github.com/error101bd](https://github.com/error101bd)  
 
 ## 📌 Features:
 - Auto Tor Proxy Setup (Multiple Nodes)
@@ -142,7 +142,7 @@ bash TorProxyX.sh
 
 ## 🔗 Contact & Support:
 
-- **GitHub**: [https://github.com/hackererror101](https://github.com/hackererror101)
+- **GitHub**: [https://github.com/error101bd](https://github.com/error101bd)
 - **Issue Report**: Open an issue on GitHub
 
 ---
