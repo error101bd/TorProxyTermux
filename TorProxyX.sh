@@ -16,7 +16,7 @@ echo -e "\e[32m      	 		================               ========================
 
 
 echo -e "\e[32m                			 GitHub Profile:\e[0m"
-echo -e "\e[31m                           	𝖍𝖙𝖙𝖕𝖘://𝖌𝖎𝖙𝖍𝖚𝖇.𝖈𝖔𝖒/𝖍𝖆𝖈𝖐𝖊𝖗𝖊𝖗𝖗𝖔𝖗101  \e[0m"
+echo -e "\e[31m                           	https://github.com/error101bd  \e[0m"
 
 
 # 🔹  Kill Existing Tor & Setup Environment
